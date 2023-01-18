@@ -1,4 +1,4 @@
---SQL Query for Covid Deaths and Vaccinations
+--SQL Query for Covid Analysis
 
 SELECT *
 FROM [Covid Portfolio Project]..CovidDeaths
