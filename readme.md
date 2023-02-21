@@ -1,7 +1,7 @@
 # Covid Infections and Deaths - Data Exploration
 
 ## Summary:
-This data exploration project uses SQL and Tableau to analyze the rate of infection and death rate by country and region throughout the world. Tableau project visuals can be viewed [here](https://public.tableau.com/app/profile/jesse.richardville/viz/CovidDashboard_16661144019410/Dashboard1).
+This data exploration project uses SQL to explore the infection rate and death rate of Covid-19 by country and region throughout the world. Developed metrics dashboard using Tableau showing global Covid-19 statistics. Tableau project visuals can be viewed [here](https://public.tableau.com/app/profile/jesse.richardville/viz/CovidDashboard_16661144019410/Dashboard1).
 
 ## Data Resource:
 
